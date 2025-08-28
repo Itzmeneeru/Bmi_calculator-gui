@@ -9,10 +9,18 @@ A desktop GUI app to compute Body Mass Index from weight and height.
 - Auto-saves results to `bmi_records.txt`
 
 ## How to Run
-```bash
-python bmi_calculator.py'
+1. Install Python 3 on your system.  
+2. Clone or download this repository.  
+3. Run the script:
+   ```bash
+   python bmi_calculator.py
 ```
 **Here you can see how it looks **
+
+
+
+
+
 ![App Screenshot]( Bmi_sc.PNG)
 
 Future Scope
