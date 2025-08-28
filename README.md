@@ -12,6 +12,9 @@ A desktop GUI app to compute Body Mass Index from weight and height.
 ```bash
 python bmi_calculator.py'
 ```
+**Here you can see how it looks **
+![App Screenshot](Bmi_sc.png)
+
 Future Scope
 
 BMI scale visualization with matplotlib
